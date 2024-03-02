@@ -1,0 +1,8 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(……æüÿÿÿÿ8ÎÓ›ß1
+G	java:S106"+Replace this use of System.out by a logger.(¡ëëé8ÒÓ›ß1
+G	java:S106"+Replace this use of System.out by a logger.(±„òá8Ğ¤“›ß1
+L	java:S106
+"+Replace this use of System.out by a logger.( á€Ïûÿÿÿÿ8©«”›ß1
+}
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(—ú÷Ú8ãœ›ß1

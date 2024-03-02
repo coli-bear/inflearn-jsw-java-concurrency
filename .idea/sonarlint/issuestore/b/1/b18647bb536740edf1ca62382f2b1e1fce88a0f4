@@ -1,0 +1,7 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼·¢õŞ1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëÛØÄùÿÿÿÿ
+y
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntToLongFunction'(Æ„¾†üÿÿÿÿ8¿·¢õŞ1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8À·¢õŞ1
