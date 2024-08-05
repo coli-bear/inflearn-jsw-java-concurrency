@@ -8,7 +8,6 @@ public class SingleThread {
             sum += i;
         }
         System.out.println("sum = " + sum);
-
         System.out.println("메인 스레드 종료");
     }
 }
